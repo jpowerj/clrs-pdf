@@ -1,0 +1,1 @@
+HTML redirect to [CLRS 4th Edition PDF](https://www.dropbox.com/scl/fi/478fp94zxliolzwnffonx/Thomas-H.-Cormen-Charles-E.-Leiserson-Ronald-L.-Rivest-Clifford-Stein-Introduction-to-Algorithms.pdf?rlkey=fvjjgtdf2eqd0q88z98tv1ypj&dl=1)
